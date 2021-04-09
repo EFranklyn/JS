@@ -2,8 +2,8 @@
 
 - estrutura de diretórios
 
-  | Status      | Diretório                                  | Conteudo       |
-  | ----------- | ------------------------------------------ | -------------- |
-  | [x] Fazendo | [JavaScript basico](JS/JavaScript basico/) | o básico do JS |
+  | Status      | Diretório                                 | Conteudo       |
+  | ----------- | ----------------------------------------- | -------------- |
+  | [x] Fazendo | [JavaScript basico](JS/JavaScriptBasico/) | o básico do JS |
 
   ***
