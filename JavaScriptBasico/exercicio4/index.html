@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="PT-BR">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Document</title>
+</head>
+<body>
+ 
+ <script>
+ let nome = prompt('digite seu nome')
+ let aux 
+  document.body.innerHTML = `nome : ${nome} <br/>`;
+  aux = nome.replace(/ /g,"");
+  document.body.innerHTML += `seu nome tem ${aux.length} letras<br/>`;
+  document.body.innerHTML += `A segunda letra do seu nome é "${aux[1]}"<br/>`;
+   
+ 
+ </script>
+</body>
+</html>
